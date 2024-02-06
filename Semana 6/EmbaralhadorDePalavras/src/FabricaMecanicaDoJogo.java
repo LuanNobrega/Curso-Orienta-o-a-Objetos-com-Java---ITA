@@ -7,9 +7,6 @@ public class FabricaMecanicaDoJogo {
         if (escolha == 0) {
             return new MecanicaSimples(embaralhador, scanner);
         } else {
-            // Adicione mais implementações de MecanicaDoJogo conforme necessário
-            // Exemplo:
-            // return new OutraImplementacaoDeMecanica(embaralhador, scanner);
             return null;
         }
     }

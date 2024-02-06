@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Semana 1/CálcumoIMC/src"/>
+	<classpathentry kind="src" path="Semana 2/Escola/src"/>
+	<classpathentry kind="src" path="Semana 2/EstaticaVsInstancia/src"/>
+	<classpathentry kind="src" path="Semana 2/Pizzaria/src"/>
+	<classpathentry kind="src" path="Semana 2/Pontuacao/src"/>
+	<classpathentry kind="src" path="Semana 3/PizzariaComTest/src"/>
+	<classpathentry kind="src" path="Semana 4/Banco/src"/>
+	<classpathentry kind="src" path="Semana 4/Carros/src"/>
+	<classpathentry kind="src" path="Semana 4/Compras/src"/>
+	<classpathentry kind="src" path="Semana 4/ExperienciaAcesso/src"/>
+	<classpathentry kind="src" path="Semana 4/TiposDeProdutos/src"/>
+	<classpathentry kind="src" path="Semana 5/Concurso/src"/>
+	<classpathentry kind="src" path="Semana 5/FormasDeTratamento/src"/>
+	<classpathentry kind="src" path="Semana 5/MetodosDeAcessoParaDatas/src"/>
+	<classpathentry kind="src" path="Semana 5/PilhaEncapsulada/src"/>
+	<classpathentry kind="src" path="Semana 6/EmbaralhadorDePalavras/src"/>
+	<classpathentry kind="src" path="Semana 6/Excessoes/src"/>
+	<classpathentry kind="src" path="Semana 6/Interfaces/src"/>
+	<classpathentry kind="src" path="Semana 6/Login/src"/>
+	<classpathentry kind="output" path="Semana 1/CálcumoIMC/bin"/>
+</classpath>
